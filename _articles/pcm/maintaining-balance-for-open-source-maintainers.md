@@ -6,6 +6,7 @@ description: Tips for self-care and avoiding burnout as a maintainer.
 class: balance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
+
 ---
 
 As an open source project grows in popularity, it becomes important to set clear boundaries to help you maintain balance to stay refreshed and productive for the long run. 
@@ -172,9 +173,8 @@ Remember, personal ecology is an ongoing practice that will evolve as you progre
 * [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
 * [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
-* [Saying No](https://mikemcquaid.com/saying-no/), Mike McQuaid
-* [Governing Open](https://governingopen.com/)
-* Workshop agenda was remixed from [Mozilla's Movement Building from Home](hhttps://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/) series
+* [Saying No](https://mikemcquaid.com/saying-no/)
+* Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/) series
 
 ## Contributors
 

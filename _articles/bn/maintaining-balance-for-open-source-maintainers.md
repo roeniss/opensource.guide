@@ -6,9 +6,10 @@ description: Tips for self-care and avoiding burnout as a maintainer.
 class: balance
 order: 0
 image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
+
 ---
 
-As an open source project grows in popularity, it becomes important to set clear boundaries to help you maintain balance to stay refreshed and productive for the long run.
+As an open source project grows in popularity, it becomes important to set clear boundaries to help you maintain balance to stay refreshed and productive for the long run. 
 
 To gain insights into the experiences of maintainers and their strategies for finding balance, we ran a workshop with 40 members of the <a href="http://maintainers.github.com/">Maintainer Community</a>, allowing us to learn from their firsthand experiences with burnout in open source and the practices that have helped them maintain balance in their work. This is where the concept of personal ecology comes into play.
 
@@ -73,7 +74,7 @@ It's important to understand what causes us to get burned out. Here are a few co
   </p>
 </aside>
 
-* **Conflicting demands:** Open source is full of groups with different motivations, which can be difficult to navigate. If you're paid to do open source, your employer's interests can sometimes be at odds with the community.
+* **Conflicting demands:**  Open source is full of groups with different motivations, which can be difficult to navigate. If you're paid to do open source, your employer's interests can sometimes be at odds with the community.
 
 <aside markdown="1" class="pquote">
   With paid open source, conflict between employer's focus and what's best for the community
@@ -99,7 +100,7 @@ There are tools like the [Burnout Checklist](https://governingopen.com/resources
 
 This will look different for each maintainer, and will change depending on your phase of life and other external factors. But here are a few themes we heard:
 
-* **Lean on the community:** Delegation and finding contributors can alleviate the workload. Having multiple points of contact for a project can help you take a break without worrying. Connect with other maintainers and the wider community–in groups like the [Maintainer Community](http://maintainers.github.com/). This can be a great resource for peer support and learning.
+* **Lean on the community:** Delegation and finding contributors can alleviate the workload. Having multiple points of contact for a project can help you take a break without worrying. Connect with other maintainers and the wider community–in groups like the [Maintainer Community](http://maintainers.github.com/). This can be a great resource for peer support and learning. 
 
   You can also look for ways to engage with the user community, so you can regularly hear feedback and understand the impact of your open source work.
 
@@ -144,7 +145,7 @@ To meaningfully trust others on these axes, you cannot be someone who says yes t
   </p>
 </aside>
 
-Learn to be firm in shutting down toxic behavior and negative interactions. It's okay to not give energy to things you don't care about.
+  Learn to be firm in shutting down toxic behavior and negative interactions. It's okay to not give energy to things you don't care about.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
@@ -168,19 +169,18 @@ Remember, personal ecology is an ongoing practice that will evolve as you progre
 
 * [Maintainer Community](http://maintainers.github.com/)
 * [The social contract of open source](https://snarky.ca/the-social-contract-of-open-source/), Brett Cannon
-* [Uncurled](https://daniel.haxx.se/uncurled/), Daniel Stenberg
+* [Uncurled](https://daniel.haxx.se/uncurled/), Daniel Stenberg 
 * [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs), Gina Häußge
 * [SustainOSS](https://sustainoss.org/)
 * [Rockwood Art of Leadership](https://rockwoodleadership.org/art-of-leadership/)
-* [Saying No](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=Saying%20No%20%7C%20Mike%20McQuaid), Mike McQuaid
-* [Governing Open](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,Governance%20of%20Open%20Source%20Software,-governingopen.com)
-* Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://docs.google.com/document/d/1esQQBJXQi1x_-1AcRVPiCRAEQYO4Qlvali0ylCvKa_s/edit?pli=1#:~:text=a%20mixed%20list.-,It%E2%80%99s%20a%20wrap%3A%20Movement%2DBuilding%20from%20Home,-foundation.mozilla.org) series
+* [Saying No](https://mikemcquaid.com/saying-no/)
+* Workshop agenda was remixed from [Mozilla's Movement Building from Home](https://foundation.mozilla.org/en/blog/its-a-wrap-movement-building-from-home/) series
 
 ## Contributors
 
 Many thanks to all the maintainers who shared their experiences and tips with us for this guide!
 
-This guide was written by [@abbycabs](https://github.com/abbycabs) with contributions from:
+This guide was written by [@abbycabs](https://github.com/abbycabs) with contributions from: 
 
 [@agnostic-apollo](https://github.com/agnostic-apollo)
 [@AndreaGriffiths11](https://github.com/AndreaGriffiths11)
